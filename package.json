@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "serverless-offline": "^3.25.4"
-  },
   "dependencies": {
     "dotenv": "^6.0.0",
     "mongoose": "^5.1.4"
